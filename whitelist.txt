@@ -265,3 +265,4 @@ youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
 amzn.to
+mandrillapp.com
